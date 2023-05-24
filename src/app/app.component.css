@@ -1,0 +1,15 @@
+* {
+  text-decoration: none;
+}
+a {
+  font-size: 24px;
+  color: #000;
+  font-weight: 800;
+  border: 1px solid #000;
+  background-color: #ccc;
+  padding: 5px;
+  border-radius: 3px;
+}
+.main {
+  margin-top: 10px;
+}
